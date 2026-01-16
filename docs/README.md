@@ -35,3 +35,5 @@ graph TD
     E --> F[Accumulation/Jamming]
     F --> A
     F -- Seuil Critique --> G{Transition de Phase}
+🔬 Prédictions & MétrologiePhénomèneParamètre CritiqueSignature PhysiqueApplicationQS Classique$\rho_c \approx 10^9$ cel/mlLuminescence / VirulenceDiagnostic BioMIPS$Pe = \frac{v}{\sigma \nu_r}$Séparation Liquide-GazBiofilms synthétiquesPercolation$P_{conn} \geq 0.59$Propagation globale du signalEssaims de robotsJamming$\phi > \phi_{RCP}$Rigidité mécanique (Biofilm)Résistance antibiotique🚀 Roadmap des ApplicationsCourt Terme (1-5 ans) : Protocoles de consensus pour la robotique d'essaim (Algorithme "Paths").Moyen Terme (5-10 ans) : Calculateurs multicellulaires (MD5, additionneurs 22 bits) distribués par QS.Long Terme (10+ ans) : Barrières de "Jamming préemptif" pour la médecine de précision intestinale.
+---
