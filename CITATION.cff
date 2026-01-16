@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this research in your work, please cite it as follows."
+authors:
+  - family-names: "Ouellette"
+    given-names: "Bryan"
+    affiliation: "Independent Researcher"
+title: "Quorum Sensing as a Density-Controlled Phase Transition: A Topological Framework"
+version: 1.0.0
+date-released: 2026-01-16
+abstract: "This framework establishes a rigorous equivalence between chemical signaling thresholds and critical points of percolation and jamming using Active Model B+ formalism."
+keywords:
+  - Quorum Sensing
+  - Phase Transition
+  - MIPS
+  - Active Matter
+  - Jamming
