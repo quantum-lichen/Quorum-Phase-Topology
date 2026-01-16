@@ -37,19 +37,35 @@ graph TD
     F -- Seuil Critique --> G{Transition de Phase}
 ```
 
-🔬 Prédictions & Métrologie
+### 🔬 Prédictions, Métrologie & Roadmap Stratégique
 
-Phénomène,Paramètre Critique,Signature Physique,Application
-QS Classique,ρc​≈109 cel/ml,Luminescence / Virulence,Diagnostic Bio
-MIPS,Pe=σνr​v​,Séparation Liquide-Gaz,Biofilms synthétiques
-Percolation,Pconn​≥0.59,Propagation globale du signal,Essaims de robots
-Jamming,ϕ>ϕRCP​,Rigidité mécanique (Biofilm),Résistance antibiotique
+Ce tableau synthétise les invariants physiques identifiés et leur trajectoire d'application industrielle.
 
-🚀 Roadmap des Applications
-Court Terme (1-5 ans) : Protocoles de consensus pour la robotique d'essaim (Algorithme "Paths").
-
-Moyen Terme (5-10 ans) : Calculateurs multicellulaires (MD5, additionneurs 22 bits) distribués par QS.
-
-Long Terme (10+ ans) : Barrières de "Jamming préemptif" pour la médecine de précision intestinale.
+| Phénomène | Paramètre Critique | Signature Physique | Application |
+| :--- | :--- | :--- | :--- |
+| **QS Classique** | $\rho_c \approx 10^9$ cel/ml | Luminescence / Virulence | Diagnostic Bio |
+| **MIPS** | $Pe = \frac{v}{\sigma \nu_r}$ | Séparation Liquide-Gaz | Biofilms synthétiques |
+| **Percolation** | $P_{conn} \geq 0.59$ | Propagation globale du signal | Essaims de robots |
+| **Jamming** | $\phi > \phi_{RCP}$ | Rigidité mécanique (Biofilm) | Résistance antibiotique |
+| **Verre Bactérien** | $\phi > 0.58$ | Arrêt dynamique / Mémoire | Stockage d'information bio |
 
 
+
+---
+
+#### 🚀 Roadmap des Applications (Horizon 2026-2036+)
+
+* **Court Terme (1-5 ans) : Swarm Robotics**
+    * Déploiement de protocoles de consensus robuste via l'algorithme "Paths" basé sur la percolation.
+    * Optimisation de la résilience des essaims face à 49% de défaillances nodales.
+    * Réduction de 30% de la consommation énergétique des communications décentralisées.
+
+* **Moyen Terme (5-10 ans) : Bio-informatique Distribuée**
+    * Conception de calculateurs multicellulaires massifs (MD5, additionneurs 22 bits).
+    * Partitionnement de circuits logiques sur des consortia bactériens via signalisation QS non-réciproque.
+    * Capacité théorique de $10^{12}$ opérations par seconde par millilitre de culture.
+
+* **Long Terme (10+ ans) : Médecine de Précision & Matériaux**
+    * Ingénierie de probiotiques pour le "Jamming préemptif" dans les cryptes intestinales.
+    * Blocage mécanique des pathogènes par transition de phase solide-liquide contrôlée.
+    * Prévention des infections à 99% sans recours aux antibiotiques traditionnels.
