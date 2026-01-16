@@ -5,7 +5,7 @@
 ![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)
 
 ## 🎯 Synopsis
-Ce dépôt documente la thèse du **Dr. Bryan Ouellette** stipulant que le **Quorum Sensing (QS)** n'est pas qu'un simple interrupteur génétique, mais une **transition de phase macroscopique** régie par la physique statistique hors-équilibre. En utilisant le formalisme de la matière active (Active Brownian Particles), nous démontrons l'isomorphisme entre les seuils de signalisation biochimique et les points critiques de percolation et de jamming.
+Ce dépôt documente la thèse de Bryan Ouellette** stipulant que le **Quorum Sensing (QS)** n'est pas qu'un simple interrupteur génétique, mais une **transition de phase macroscopique** régie par la physique statistique hors-équilibre. En utilisant le formalisme de la matière active (Active Brownian Particles), nous démontrons l'isomorphisme entre les seuils de signalisation biochimique et les points critiques de percolation et de jamming.
 
 
 ## 📐 Formalisme Mathématique
